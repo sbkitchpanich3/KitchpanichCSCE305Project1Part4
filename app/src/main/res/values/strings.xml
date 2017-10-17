@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KitchpanichCSCE305Project1Part4</string>
+    <string name="rest_thai_textview">พัก</string>
+    <string name="prev_button">PREV</string>
+    <string name="flip_button">FLIP</string>
+    <string name="next_button">NEXT</string>
+    <string name="rest_textview">Low consonant + long vowel + dead ending = high tone</string>
+    <string name="vegetable_textview">High consonant + short vowel + dead ending = low tone</string>
+    <string name="love_textview">Low consonant + long vowel + dead ending = high tone</string>
+    <string name="wig_textview">Low consonant + long vowel + dead ending = high tone</string>
+    <string name="building_textview">Mid consonant + short vowel + dead ending = low tone</string>
+    <string name="love_thai_textview">รัก</string>
+    <string name="building_thai_textview">ตึก</string>
+    <string name="vegetable_thai_textview">ผัก</string>
+    <string name="wig_thai_textview">วิก</string>
+</resources>

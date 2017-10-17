@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sbkitchpanich.kitchpanichcsce305project1part4">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.RestThai">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.BuildingEnglish"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.BuildingThai"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.LoveEnglish"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.LoveThai"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.RestEnglish"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.VegetableEnglish"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.VegetableThai"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.WigEnglish"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.sbkitchpanich.kitchpanichcsce305project1part4.WigThai"
+            android:theme="@style/AppTheme" />
+
+    </application>
+
+</manifest>
